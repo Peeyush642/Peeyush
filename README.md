@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Peeyush642
 - 👀 I’m interested in programing.
-- 🌱 I’m currently learning web dev.
+- 🌱 I’m currently learning Devops.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
